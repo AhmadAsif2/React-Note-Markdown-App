@@ -22,3 +22,8 @@ A desktop application for note-taking with Markdown support, built using Electro
 
    ```bash
      git clone https://github.com/AhmadAsif2/React-Note-Markdown-App.git
+
+2. **Run the project
+
+   ```bash
+       yarn run dev
